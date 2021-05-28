@@ -152,7 +152,7 @@ Country:
 |Bhupesh Varshney| Software Engineer / Backend Developer | Delhi, India | Python, Go, Django, Flask, JavaScript, Microservices, CI/CD, Docker, Git, SQL, REST | Yes | [Web](https://bhupesh-v.github.io) - [LinkedIn](https://www.linkedin.com/in/bhupesh-v/) - [Email](mailto:varshneybhupesh@gmail.com) - [GitHub](https://github.com/Bhupesh-V) |
 |Samarth Pralhad Nehe |MERN Stack Web Developer |Indore,India |ReactJS, NodeJS, MongoDB, ExpressJS, Figma, Firebase, NextJS | Remote|[Linkedin](https://www.linkedin.com/in/samarth-nehe-a0b9b519b/) <br /> [Email](mailto:samarthnehe2000@gmail.com)<br />[Github](https://github.com/Samarthnehe)|
 |Shubham Singh| Frontend Developer / Fullstack Developer | Pune, India | HTML, CSS, SASS/SCSS, Javascript, Angular2+, ReactJS, TailwindCSS, Bootstrap, Material UI, CSS-in-JS, D3, Charts.js, NodeJS, MongoDB, Redis, Socket.io, RESTful API's | Remote / On Site | [Email](mailto:shubhsingh01@gmail.com) &ndash; [Github](https://github.com/shubh0107) &ndash; [LinkedIn](https://www.linkedin.com/in/shubhsingh01/) &ndash; [Resume](https://shubh0107.github.io/) |
-
+|Shrijan Prakash |Frontend developer/designer/web developer/software developer |Jharkhand(India) |HTML5, CSS3, javascript, sql, MONGOdb, ReactJS, Angular, python, c++, firebase, java, bootstrap, DS algo  | Relocate/ onsite/ remote |Email - srijanprak@gmail.com / Portfolio - https://shri05-stack.github.io/Portfolio/ / twitter - https://twitter.com/ShrijanPrakash / Linkedin - https://www.linkedin.com/in/shrijan-prakash-a71111169/ |
 ## Singapore
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
